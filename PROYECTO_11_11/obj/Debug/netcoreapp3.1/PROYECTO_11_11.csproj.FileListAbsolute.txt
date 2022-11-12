@@ -1,0 +1,28 @@
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.exe
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.deps.json
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.runtimeconfig.json
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.runtimeconfig.dev.json
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.dll
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.pdb
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.csproj.AssemblyReference.cache
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.AssemblyInfoInputs.cache
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.AssemblyInfo.cs
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.csproj.CoreCompileInputs.cache
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.dll
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.pdb
+C:\Users\kmcastrof\source\repos\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.genruntimeconfig.cache
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.csproj.AssemblyReference.cache
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.AssemblyInfoInputs.cache
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.AssemblyInfo.cs
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.csproj.CoreCompileInputs.cache
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.dll
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.pdb
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.exe
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.deps.json
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.runtimeconfig.json
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.runtimeconfig.dev.json
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.dll
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\bin\Debug\netcoreapp3.1\PROYECTO_11_11.pdb
+C:\Users\kmcastrof\Desktop\.NET C#\PROYECTO_11_11\PROYECTO_11_11\obj\Debug\netcoreapp3.1\PROYECTO_11_11.genruntimeconfig.cache
